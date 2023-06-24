@@ -17,3 +17,7 @@ export default Dbconnect;
 // column = field
 // single data = document
 // database = collection
+
+// password-npm i bcryptjs
+
+// npm i cookie jsonwebtoken
